@@ -42,3 +42,28 @@ A drawing program where the user can draw lines with the mouse, change colors us
 
 ### View Code
 [View Code](DrawingApplication.py)
+
+## Fortune Teller App (Python with Processing)
+
+### Description
+A visual fortune teller program where the user can click a button to receive a random fortune. The app displays colorful circular patterns in the background and shows the mouse coordinates for added interactivity.
+
+### Tools I Used
+- Python
+- Processing library
+- collide2d library
+- Functions
+- Loops
+- Randomization
+- Mouse input handling
+
+### What I Learned
+- How to use Python with the Processing library for graphics
+- How to generate random choices from a list
+- How to create interactive buttons with mouse detection
+- How to use loops to draw repeated patterns on screen
+- How to combine text, shapes, and interactivity in a program
+
+### View Code
+[View Code](FortuneTeller.py)
+
