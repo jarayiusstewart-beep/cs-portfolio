@@ -19,3 +19,26 @@ A text-based RPG where the player makes choices through typed commands to comple
 
 ### View Code
 [View Code](TextAdventure.py)
+
+## Interactive Drawing App (Python with Processing)
+
+### Description
+A drawing program where the user can draw lines with the mouse, change colors using on-screen color buttons, and reset the canvas. The app shows the current mouse coordinates and allows different brush weights and colors.
+
+### Tools I Used
+- Python
+- Processing library
+- collide2d library
+- Functions
+- Dictionaries
+- Mouse input handling
+
+### What I Learned
+- How to use Python with the Processing library
+- How to track and respond to mouse input
+- How to manage drawing settings with dictionaries
+- How to create interactive on-screen buttons
+- How to reset or change brush properties dynamically
+
+### View Code
+[View Code](drawing_app.py)
