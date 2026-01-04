@@ -41,4 +41,4 @@ A drawing program where the user can draw lines with the mouse, change colors us
 - How to reset or change brush properties dynamically
 
 ### View Code
-[View Code](drawing_app.py)
+[View Code](DrawingApplication.py)
